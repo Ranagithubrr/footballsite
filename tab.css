@@ -1,0 +1,28 @@
+.navbar .left{
+    display: none;
+}
+.navbar .right {
+    width: 100%;
+}
+.barIcon{
+    display: block;
+}
+.landing{
+    padding:80px 0;
+    display: block;
+}
+.landing .left, .landing .right{
+    width:100%;
+    padding: 50px 0;
+    text-align: center;
+}
+.mainButton {
+    padding: 10px 25px;
+    font-size: 19px;
+}
+.playerZone {
+    grid-template-columns: repeat(2, 1fr);
+}
+.matchHeading {
+    font-size: 34px;
+}

@@ -1,0 +1,25 @@
+.playerZone {
+    grid-template-columns: repeat(1, 1fr);
+    margin-top: 20px;
+}
+.heightLightArea {
+    display: block;
+    align-items: center;
+}
+.heightLightArea .left{
+    width: 100%;
+}
+.heightLightArea .right{
+    width: 100%;
+    padding-top: 20px;
+}
+.topbar, .playerZone , .heightLightArea {
+    padding: 10px 30px;
+}
+.main-text {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.landing .left, .landing .right{
+    padding:20px 0;
+}
